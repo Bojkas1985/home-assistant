@@ -175,6 +175,7 @@ FLOWS = [
     'simplisafe',
     'smartthings',
     'smhi',
+    'somfy',
     'sonos',
     'tellduslive',
     'toon',
